@@ -8,41 +8,16 @@ https://winterkanda.github.io/Homework-1-Code-Refractor/
 
 https://github.com/winterkanda/Homework-1-Code-Refractor
 
-# Project Title
-One Paragraph of project description goes here
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-### Prerequisites
-What things you need to install the software and how to install them
-```
-Give examples
-```
-### Installing
-A step by step series of examples that tell you how to get a development env running
-Say what the step will be
-```
-Give the example
-```
-And repeat
-```
-until finished
-```
-End with an example of getting some data out of the system or using it for a little demo
-## Built With
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-## Deployed Link
-* [See Live Site](#)
-## Authors
-* **YOUR NAME**
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-## License
+Installing
+This code was refractored by cleaning up the HTML language to follow semantic HTML. I changed the divs to navs, included article id's with the appropriate class assigned to it. Footer was also included at the bottom. I also consolidated CSS to make sure it followed along with the HTML semantics, cleaning up the repetive aspects. Code was then organized to follow the Scout's Rule, for the purposes of making it easier for the user to read.
+
+Technology Used
+To build this code, technology used was a macbook air and it was built on visual studio code. It also utilized an HTML to create elements, a CSS to style the html elements, git to track changes to source code, and git hub where my repository exists to be deployed to github pages
+Deployed Link
+See Live Site
+Authors
+Kiran "Winter" Kanda
+Link to Github
+Link to LinkedIn
+License
 This project is licensed under the MIT License
-## Acknowledgments
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
