@@ -6,4 +6,4 @@ Deployed Link: https://winterkanda.github.io/Homework-1-Code-Refractor/
 
 GitHub: https://github.com/winterkanda/Homework-1-Code-Refractor
 
-[Alt text](screenshot-horiseon.png)
+![Alt text](screenshot-horiseon.png)
